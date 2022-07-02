@@ -1,2 +1,3 @@
-# towers
+🗼 Towers
+
 Towers board game
